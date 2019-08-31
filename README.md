@@ -1,6 +1,10 @@
-# azure-certifications
+# azure-certifications e.g. DEVOPS200.1x
 
-somewhere to drop some links and information on azure certifications
+somewhere to drop some links and information on azure certifications (random notes for now, unsorted, just sharing with mates)
+
+# courses 
+
+https://courses.edx.org/courses/course-v1:Microsoft+DEVOPS200.1x+2T2019/course/
 
 # random notes
 
