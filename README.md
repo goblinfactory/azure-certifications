@@ -6,6 +6,10 @@ somewhere to drop some links and information on azure certifications (random not
 
 https://courses.edx.org/courses/course-v1:Microsoft+DEVOPS200.1x+2T2019/course/
 
+# alternative training (prep) sites 
+
+https://acloud.guru/pricing : Recommended by Simon. Must check out.
+
 # random notes
 
 as far as I can tell this is the latest : https://www.microsoft.com/en-us/learning/exam-AZ-400.aspx
