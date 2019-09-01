@@ -10,6 +10,10 @@ https://courses.edx.org/courses/course-v1:Microsoft+DEVOPS200.1x+2T2019/course/
 
 https://acloud.guru/pricing : Recommended by Simon. Must check out.
 
+a brief look and this course is a MUST try;
+
+* https://acloud.guru/learn/azure-intro-serverless
+
 # random notes
 
 as far as I can tell this is the latest : https://www.microsoft.com/en-us/learning/exam-AZ-400.aspx
